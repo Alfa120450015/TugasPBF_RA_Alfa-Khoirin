@@ -1,8 +1,6 @@
 #Author: Alfa Khoirin
 #NIM: 120450015
-#Affiliation : Sains Data Itera
-#Date : 4 March 2022
-#Program Description : Program to solve simple encryption password problem
+#Prodi : Sains Data Itera
 
 def enkripsi(pw):
     password = list(pw)
